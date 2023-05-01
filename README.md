@@ -14,21 +14,10 @@
 ![Python](https://img.shields.io/badge/python-%23000000.svg?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23000000.svg?style=for-the-badge&logo=html5&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-%23000000.svg?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23000000.svg?style=for-the-badge&logo=swagger&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%23000000.svg?style=for-the-badge&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%23000000.svg?style=for-the-badge&logo=docker&logoColor=white) ![Cypress](https://img.shields.io/badge/cypress-%23000000.svg?style=for-the-badge&logo=cypress&logoColor=white) ![Miro](https://img.shields.io/badge/miro-%23000000.svg?style=for-the-badge&logo=miro&logoColor=white) ![Selenium](https://img.shields.io/badge/selenium-%23000000.svg?style=for-the-badge&logo=selenium&logoColor=white) ![Visual Studio](https://img.shields.io/badge/visualstudio-%23000000.svg?style=for-the-badge&logo=visualstudio&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-%23000000.svg?style=for-the-badge&logo=pycharm&logoColor=white) ![Android Studio](https://img.shields.io/badge/androidstudio-%23000000.svg?style=for-the-badge&logo=androidstudio&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23000000.svg?style=for-the-badge&logo=git&logoColor=white) ![Kibana](https://img.shields.io/badge/kibana-%23000000.svg?style=for-the-badge&logo=kibana&logoColor=white) ![Sentry](https://img.shields.io/badge/sentry-%23000000.svg?style=for-the-badge&logo=sentry&logoColor=white) ![Metabase](https://img.shields.io/badge/metabase-%23000000.svg?style=for-the-badge&logo=metabase&logoColor=white)
 
 # 📊 Статистика GitHub:
-
-Карточка профиля:<br> 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fr4t0s&theme=solarized_dark)
-
-Статистика языков в коммитах:<br>
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fr4t0s&theme=solarized_dark)
-
-Статистика языков в репозиториях:<br>
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fr4t0s&theme=solarized_dark)
-
-Статистика профиля:<br>
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fr4t0s&theme=solarized_dark)
-
-Данные по коммитам за сутки:<br>
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fr4t0s&theme=solarized_dark)
+![](https://github-readme-stats.vercel.app/api?username=Fr4t0s&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Fr4t0s&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fr4t0s&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-profile-trophy.vercel.app/?username=Fr4t0s&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Случайная цитата:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
