@@ -15,9 +15,20 @@
 
 # 📊 Статистика GitHub:
 
-![](https://github-readme-stats.vercel.app/api?username=Fr4t0s&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Fr4t0s&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fr4t0s&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Карточка профиля:<br> 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fr4t0s&theme=solarized_dark)
+
+Статистика языков в коммитах:<br>
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fr4t0s&theme=solarized_dark)
+
+Статистика языков в репозиториях:<br>
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fr4t0s&theme=solarized_dark)
+
+Статистика профиля:<br>
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fr4t0s&theme=solarized_dark)
+
+Данные по коммитам за сутки:<br>
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fr4t0s&theme=solarized_dark)
 
 ### ✍️ Случайная цитата:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
