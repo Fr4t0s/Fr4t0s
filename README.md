@@ -21,9 +21,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fr4t0s&theme=solarized_dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Fr4t0s=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?Fr4t0s=DenverCoder1)](https://git.io/streak-stats)
 ### ✍️ Случайная цитата:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
