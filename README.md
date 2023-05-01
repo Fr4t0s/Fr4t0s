@@ -22,7 +22,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fr4t0s&theme=solarized_dark)
 
 
-[![](https://github-readme-streak-stats.herokuapp.com/?fr4t0s=DenverCoder1)](https://git.io/streak-stats)
+![](https://github-readme-streak-stats.herokuapp.com/?fr4t0s=DenverCoder1)](https://git.io/streak-stats)
 
 ### ✍️ Случайная цитата:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
