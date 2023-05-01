@@ -1,4 +1,4 @@
-#![](https://github.com/Fr4t0s/Fr4t0s/blob/main/revva-comedy-club.gif)
+![](https://github.com/Fr4t0s/Fr4t0s/blob/main/revva-comedy-club.gif)
 
 # Приветствую!  
 
