@@ -10,7 +10,7 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fr4t0s&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/Статистика-commit-language?username=Fr4t0s&theme=solarized_dark)
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fr4t0s&theme=solarized_dark)
