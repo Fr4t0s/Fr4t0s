@@ -1,4 +1,6 @@
-# Приветствую! Я [Сергей](https://fr4t0s.github.io/Site-card/) ![]() 
+![]()
+# Приветствую!  
+№ Я [Сергей](https://fr4t0s.github.io/Site-card/) 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=QA+Engineer;%D0%91%D1%83%D0%B4%D1%83%D1%89%D0%B8%D0%B9+Data+Scientist)](https://git.io/typing-svg)
 
 # 💫 Обо мне:
